@@ -175,7 +175,12 @@ body{
         font-size: 16px;
         line-height: 110%;
         color: #202027;
-        padding-bottom: 26px;
+        margin-bottom: 26px;
+        background-color: rgba(247, 247, 247, 1);
+        border-radius: 53px;
+        width: 111px;
+        padding:8px 16px 10px 16px
+
     }
 
     &__name{
